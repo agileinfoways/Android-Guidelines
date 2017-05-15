@@ -1,10 +1,12 @@
 # Android Guidelines
 ![Agile Infoways Pvt Ltd.](https://0.s3.envato.com/files/221713401/evanto.jpg)
 
-### About Agile Infoways
-**Agile Infoways Private Limited is an offshore development outsourcing IT company. Incepted in the year 2006, Agile Infoways is doing an astonishing work on the ground of IT fraternity.**
+### [Click here to Start following guidelines]([https://github.com/agileinfoways/Android-Guidelines/wiki)
 
-**We are helping small, medium, large companies to successfully built their online business utilizing native, cross-platform and web technologies for more than 10 years now.**
+### About Agile Infoways
+Agile Infoways Private Limited is an offshore development outsourcing IT company. Incepted in the year 2006, Agile Infoways is doing an astonishing work on the ground of IT fraternity.
+
+We are helping small, medium, large companies to successfully built their online business utilizing native, cross-platform and web technologies for more than 10 years now.
 
 ### We are having expertise on following things:
 
@@ -29,6 +31,4 @@
 
 <a href="https://www.behance.net/agileinfoways" target="_blank" title="Behance" style="width:100%">
 <img src="https://github.com/agileinfoways/Android-Guidelines/blob/master/social_media_logos/1494847352_behance.png" title="Behance" width="48" height="48" />
-
-
 
