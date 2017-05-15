@@ -1,4 +1,18 @@
+# Android Guidelines
 ![Agile Infoways Pvt Ltd.](https://0.s3.envato.com/files/221713401/evanto.jpg)
+
+### About Agile Infoways
+**Agile Infoways Private Limited is an offshore development outsourcing IT company. Incepted in the year 2006, Agile Infoways is doing an astonishing work on the ground of IT fraternity.**
+
+**We are helping small, medium, large companies to successfully built their online business utilizing native, cross-platform and web technologies for more than 10 years now.**
+
+### We are having expertise on following things:
+
+* Event Listing for multiple cities and Event Organizer app
+* Sports Application for Evaluation of Athletes
+* Food and Vendor Management Application
+* Real Estate Application
+* Video Sharing Social Networking Application.
 
 ### **Connect with us**
 <a href="https://twitter.com/agileinfoways" target="_blank" title="Twitter" style="width:100%">
